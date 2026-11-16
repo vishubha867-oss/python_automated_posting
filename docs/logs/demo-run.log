@@ -1,0 +1,10 @@
+# Last updated: Monday, Nov 16, 2026, 04:23 PM (UTC+5:30)
+[2026-11-16T05:57:01.086182+00:00] Live demo run (no uvicorn)
+Message: 'Check out our latest business platform and grow your online visibility. https://example.com'
+Output file: docs/logs/demo-response.json
+success=False
+  Discord: failed (Discord is not configured. Set the required environment variables (see .env.example).)
+  Telegram: failed (Telegram is not configured. Set the required environment variables (see .env.example).)
+  Facebook: failed (Facebook is not configured. Set the required environment variables (see .env.example).)
+  Instagram: failed (Instagram is not configured. Set the required environment variables (see .env.example).)
+  LinkedIn: failed (LinkedIn is not configured. Set the required environment variables (see .env.example).)

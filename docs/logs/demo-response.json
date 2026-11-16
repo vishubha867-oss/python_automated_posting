@@ -1,0 +1,51 @@
+{
+  "success": false,
+  "results": [
+    {
+      "platform": "Discord",
+      "status": "failed",
+      "posted_url": null,
+      "public_access": false,
+      "date": null,
+      "time": null,
+      "error": "Discord is not configured. Set the required environment variables (see .env.example)."
+    },
+    {
+      "platform": "Telegram",
+      "status": "failed",
+      "posted_url": null,
+      "public_access": false,
+      "date": null,
+      "time": null,
+      "error": "Telegram is not configured. Set the required environment variables (see .env.example)."
+    },
+    {
+      "platform": "Facebook",
+      "status": "failed",
+      "posted_url": null,
+      "public_access": false,
+      "date": null,
+      "time": null,
+      "error": "Facebook is not configured. Set the required environment variables (see .env.example)."
+    },
+    {
+      "platform": "Instagram",
+      "status": "failed",
+      "posted_url": null,
+      "public_access": false,
+      "date": null,
+      "time": null,
+      "error": "Instagram is not configured. Set the required environment variables (see .env.example)."
+    },
+    {
+      "platform": "LinkedIn",
+      "status": "failed",
+      "posted_url": null,
+      "public_access": false,
+      "date": null,
+      "time": null,
+      "error": "LinkedIn is not configured. Set the required environment variables (see .env.example)."
+    }
+  ],
+  "repository_updated": "Monday, Nov 16, 2026, 04:23 PM (UTC+5:30)"
+}
